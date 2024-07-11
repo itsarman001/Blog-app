@@ -36,3 +36,12 @@ import.meta.env.VITE_APPWRITE_URL
 
 Vendor lock-in is when someone is essentially forced to continue using a product or service regardless of quality, because switching away from that product or service is not practical.<br>
 To avoid **Vendor Lock-In** this we create a _**class of services**_
+
+### Constructor & Class
+
+### Redux Setup
+
+## Components
+
+### Container:
+- a components where which will accepts some children and used for styling
