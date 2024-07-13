@@ -40,6 +40,7 @@ To avoid **Vendor Lock-In** this we create a _**class of services**_
 ### Constructor & Class
 
 ### Redux Setup
+setup redux
 
 ## Components
 
